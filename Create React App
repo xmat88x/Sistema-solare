@@ -1,0 +1,2 @@
+npx create-react-app sistema-solare --template typescript
+cd sistema-solare
